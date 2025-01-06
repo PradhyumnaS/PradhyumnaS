@@ -13,22 +13,6 @@ I'm a software developer passionate about **AI**, **Machine Learning**, and **Fu
 
 ---
 
-## 🚀 **Projects**
-
-### **Pneumonia Detection using CNN**  
-**Tech**: Python, TensorFlow, OpenCV
-
-### **Retinal Disease Classifier using EfficientNetB0**  
-**Tech**: Python, PyTorch, Flask
-
-### **Contextual Email Synthesizer**  
-**Tech**: Python, Hugging Face, Flask
-
-### **Network Intrusion Detection System**  
-**Tech**: Python, TensorFlow
-
----
-
 ## 💼 **Experience**
 
 ### **RootsGoods** – **AI Intern** (Dec 2024 - Present)
