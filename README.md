@@ -7,23 +7,21 @@ I'm a software developer passionate about **AI**, **Machine Learning**, and **Fu
 ## 🛠️ **Technologies & Skills**
 
 - **Languages**: Python, JavaScript, Java, C, C++
-- **Frameworks**: Next.js, React, Django, TensorFlow, PyTorch, Keras
+- **Frameworks**: Next.js, React, Django, TensorFlow, PyTorch, Keras, Transformers
 - **Databases**: MongoDB, MySQL, Firebase
 - **Tools**: Git, GitHub, Tableau, Sanity
 
 ---
 
-## 💼 **Experience**
+## 💼 **Recent Experience**
 
-### **RootsGoods** – **AI Intern** (Dec 2024 - Present)
+- **RootsGoods** – AI Intern (Dec 2024 - Present)
 
-### **SkillDzire** – **Intern** (Nov - Dec 2024)
+- **SkillDzire** – Intern (Nov - Dec 2024)
 
-### **Noesys Software Pvt. Ltd.** – **Data Analyst** (Sept - Nov 2024)
+- **Noesys Software Pvt. Ltd.** – Data Analyst (Sept - Nov 2024)
 
-### **OctaNet Services Pvt. Ltd.** – **Intern** (July - Aug 2024)
-
-### **MathWorks** – **Intern** (May - Sept 2023)
+- **MathWorks** – Intern (May - Sept 2023)
 
 ---
 
