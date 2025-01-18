@@ -16,11 +16,8 @@ I'm a software developer passionate about **AI**, **Machine Learning**, and **Fu
 ## 💼 **Recent Experience**
 
 - **RootsGoods** – AI Intern (Dec 2024 - Present)
-
 - **SkillDzire** – Intern (Nov - Dec 2024)
-
 - **Noesys Software Pvt. Ltd.** – Data Analyst (Sept - Nov 2024)
-
 - **MathWorks** – Intern (May - Sept 2023)
 
 ---
