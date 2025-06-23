@@ -1,6 +1,6 @@
 # **👋 Hi, I'm Pradhyumna!**
 
-Just a guy passionate about **Machine Learning**, and **Full-Stack Development**. Welcome to my GitHub! 🚀
+Just a guy passionate about **Machine Learning** and **Full-Stack Development**. Welcome to my GitHub! 🚀
 
 ---
 
