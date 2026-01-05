@@ -26,12 +26,6 @@ Just a guy passionate about **Machine Learning** and **Full-Stack Development**.
 
 ---
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PradhyumnaS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 # 📫 **Let's Connect**
 
 - [LinkedIn](www.linkedin.com/in/pradhyumna-s-62956425b)
