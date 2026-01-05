@@ -9,12 +9,11 @@ Just a guy passionate about **Machine Learning** and **Full-Stack Development**.
 
 ---
 
-# 💼 **Recent Experience**
+# 💼 **Professional Experience**
 
-- **RootsGoods** – AI Intern (Dec 2024 - March 2025)
-- **SkillDzire** – Intern (Nov - Dec 2024)
-- **Noesys Software Pvt. Ltd.** – Data Analyst (Sept - Nov 2024)
-- **MathWorks** – Intern (May - Sept 2023)
+- **RootsGoods** – AI Engineer (Present)
+- **Noesys Software Pvt. Ltd.** – Software Development Intern (Sept - Jan 2024)
+- **MathWorks** – AI Intern (May - Sept 2023)
 
 ---
 
