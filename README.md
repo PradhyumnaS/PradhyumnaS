@@ -123,10 +123,10 @@ From **swarm drones** using PPO reinforcement learning, to **multilingual agenti
 
 <div align="center">
 
-## FLAGSHIP PROJECTS
+## PROJECTS
 
 </div>
-
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 <details open>
 <summary><h3>Autonomous Swarm Drones (RL + PPO)</h3></summary>
 
