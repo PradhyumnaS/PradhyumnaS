@@ -6,7 +6,7 @@
 
 # PRADHYUMNA S
 
-### `AI Engineer` | `Full Stack Developer` | `Systems Architext`
+### `AI Engineer` | `Full Stack Developer` | `Systems Architect`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=B23527&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Engineering+And+Building+AI+Systems+That+Actually+DO+Things;From+Swarm+Drones+to+Agentic+LLMs)](https://git.io/typing-svg)
 
@@ -36,12 +36,12 @@ I'm an **AI Engineer** obsessed with building intelligent systems that actually 
 
 From **swarm drones** using PPO reinforcement learning, to **multilingual agentic LLMs** deployed on Azure at scale, I design software that blends cutting-edge research with real-world impact.
 
-**Philosophy:**
-- Intelligence first — Models must **reason**, not just respond
-- Systems over scripts — Pipelines, telemetry, **scalability**
-- Real-world grounding — Agriculture, healthcare, autonomy
-- Relentless optimization — Accuracy, latency, cost, UX
-
+**WHAT I DO:**
+- Build models that solve problems end-to-end, not just proof-of-concepts
+- Turn algorithms into reliable, production-grade systems
+- Ship working systems to real users, measure actual impact
+- Iterate based on data: model performance, system metrics, user feedback
+  
 > ### *"If it doesn't scale, learn, or adapt — it's not finished."*
 
 ---
