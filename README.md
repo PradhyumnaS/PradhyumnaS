@@ -27,22 +27,11 @@
 
 
 
+<div align="center">
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### WHO AM I?
-
-I'm an **AI Engineer** obsessed with building intelligent systems that actually **DO** things.
-
-From **swarm drones** using PPO reinforcement learning, to **multilingual agentic LLMs** deployed on Azure at scale, I design software that blends cutting-edge research with real-world impact.
-
-**WHAT I DO:**
-- Build models that solve problems end-to-end, not just proof-of-concepts
-- Turn algorithms into reliable, production-grade systems
-- Ship working systems to real users, measure actual impact
-- Iterate based on data: model performance, system metrics, user feedback
-  
-> ### *"If it doesn't scale, learn, or adapt — it's not finished."*
+</div>
 
 ---
 
@@ -126,7 +115,7 @@ From **swarm drones** using PPO reinforcement learning, to **multilingual agenti
 ## PROJECTS
 
 </div>
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 <details open>
 <summary><h3>Autonomous Swarm Drones (RL + PPO)</h3></summary>
 
