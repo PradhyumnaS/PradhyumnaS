@@ -162,18 +162,6 @@
 
 <div align="center">
 
-## GITHUB ANALYTICS DASHBOARD
-
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradhyumnaS&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=PradhyumnaS&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
-
-</div>
-
----
-
-<div align="center">
-
 ## CONTRIBUTION GRAPH
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
